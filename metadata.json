@@ -1,0 +1,6 @@
+{
+  "name": "HyperEconomy Studio",
+  "description": "Professional browser-based game economy design, balancing, and monte carlo agent flow simulator for hypercasual and casual games.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
